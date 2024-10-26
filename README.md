@@ -56,7 +56,7 @@ Soy un **Científico de Datos apasionado por la innovación** y el impacto socia
 ---
 
 ## 📫 Contacto
-- **Correo**: [gabriels114o@gmail.com](mailto:gabriels114@gmail.com)
+- **Correo**: [gabriels114@gmail.com](mailto:gabriels114@gmail.com)
 - **LinkedIn**: [Gabriel Gudiño Lara](https://www.linkedin.com/in/gabriel-gudi%C3%B1o-lara)
 
 ![Mail GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/mail.gif?raw=true)
