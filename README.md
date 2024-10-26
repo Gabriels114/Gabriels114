@@ -51,7 +51,7 @@ Soy un **Científico de Datos apasionado por la innovación** y el impacto socia
 ---
 
 ## 📈 Estadísticas de GitHub
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-gudino&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriels114&show_icons=true&theme=radical)
 
 ---
 
