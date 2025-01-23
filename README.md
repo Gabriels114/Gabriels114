@@ -28,7 +28,7 @@ Soy un **Científico de Datos apasionado por la innovación** y el impacto socia
 
 ![Brain GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/brain.gif?raw=true)
 
-### [ECHO Project: Sistema y Algoritmo de Recomendación de Contenidos]
+### [ECHO Project: Sistema y Algoritmo de Recomendación de Contenidos](https://github.com/SebasCrucer/TARS_NASA_International_Space_Apps_Challenge)
 **Descripción**: Desarrollo de un sistema de recomendación de contenidos utilizando **modelos predictivos CLIP y SVM**, aumentando la precisión en la recomendación de contenidos en un 20%. Integración con la API de WhatsApp y un backend en Node.js para mejorar la distribución de información.  
 **Tecnologías**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
