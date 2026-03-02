@@ -1,12 +1,10 @@
 # 👋 ¡Hola, soy Gabriel Gudiño Lara!
+## Data Scientist | Edge AI Engineer | Solucionador de Problemas de Impacto Real
+### "Llevando la IA del papel al hardware para transformar industrias."
 
-## Data Scientist | Edge AI Engineer | Investigador Nacional en Salud Digital
-### "Desarrollando tecnología de vanguardia para los desafíos más grandes de la sociedad."
-
-Soy un **Científico de Datos** apasionado por la intersección entre la inteligencia artificial, el hardware y la salud. Mi trabajo se centra en el **End-to-End Data Science**: desde la investigación clínica y el entrenamiento de modelos de Deep Learning hasta su implementación en sistemas de **Edge Computing**. 
+Soy un **Científico de Datos** (6to semestre, UAQ) y egresado del bootcamp de **TripleTen**. Mi pasión es la convergencia entre el **Machine Learning** y el **Edge Computing**. No solo entreno modelos; diseño sistemas embebidos que resuelven problemas reales en transporte, salud y seguridad, optimizando la inferencia para que ocurra donde el dato se genera.
 
 ---
-
 ## 🏆 Logros Destacados
 - 🥇 **1er Lugar Nacional - Encuentro Nacional de Jóvenes Investigadores**: Ganador absoluto con el proyecto **Glucodia** (Validado por CONAHCYT/CONCYTEQ).
 - 🥇 **1er Lugar "Proyéctate" (UAQ)**: Proyecto **VAcces**, visión artificial para control de accesos en el borde.
