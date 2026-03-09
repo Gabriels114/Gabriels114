@@ -56,5 +56,5 @@ Exploro la frontera técnica en **Axia (@AxiaData)**. Actualmente investigo:
 ---
 
 ## 📫 Conectemos
-- **LinkedIn**: [Gabriel Gudiño Lara](https://www.linkedin.com/in/gabriel-gudi%C3%B1o-lara)
+- **LinkedIn**: [Gabriel Gudiño Lara](https://www.linkedin.com/in/gabriel-gudino-lara)
 - **Email**: [gabriels114@gmail.com](mailto:gabriels114@gmail.com)
